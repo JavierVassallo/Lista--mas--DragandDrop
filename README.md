@@ -10,3 +10,7 @@ Esta funcionalidad se la doy con JQuerry en el archivo index.html a traves del i
 
 Cualquier modificacin o pregunta estoy a su disposicion.
 
+![](https://github.com/JavierVassallo/Lista--mas--DragandDrop/blob/master/imgReadme/1.png)
+
+![](https://github.com/JavierVassallo/Lista--mas--DragandDrop/blob/master/imgReadme/2.png)
+
